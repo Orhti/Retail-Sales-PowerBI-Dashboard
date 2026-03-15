@@ -17,7 +17,7 @@ Provides a high-level summary of sales performance including:
 - Category sales distribution
 - Top products by revenue
 
-![Executive Overview]
+
 
 ---
 
@@ -30,7 +30,7 @@ Key analysis includes:
 - Top performing products
 - Segment contribution to category revenue
 
-![Product Analysis]
+
 
 ---
 
@@ -54,5 +54,3 @@ Key analysis includes:
 Superstore Sales Dataset containing 9.8K retail transactions.
 
 ---
-
-## Files
