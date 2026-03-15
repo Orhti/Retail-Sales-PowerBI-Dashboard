@@ -17,7 +17,7 @@ Provides a high-level summary of sales performance including:
 - Category sales distribution
 - Top products by revenue
 
-![Executive Overview](images/dashboard_overview.png)
+![Executive Overview]
 
 ---
 
@@ -30,7 +30,7 @@ Key analysis includes:
 - Top performing products
 - Segment contribution to category revenue
 
-![Product Analysis](images/product_analysis.png)
+![Product Analysis]
 
 ---
 
