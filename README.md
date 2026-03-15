@@ -54,3 +54,7 @@ Key analysis includes:
 Superstore Sales Dataset containing 9.8K retail transactions.
 
 ---
+## Live Dashboard
+View the interactive report here:
+
+https://app.powerbi.com/view?r=eyJrIjoiMDZjODExNjQtYTFmMi00NjZjLWE5ZmYtOGQ5NjY5ZmY3YTFlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=7ae4bf10240c651040d9
